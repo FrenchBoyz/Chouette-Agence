@@ -2,4 +2,4 @@
 
 Optimisation SEO du site la chouette agence 
 
-rapport SEO inclus dans les fichiers du projet 
+Rapport d'optimisation inclus dans les fichiers du projet 
